@@ -1,13 +1,3 @@
-/**
- * @file main.cpp
- * @author Leaos
- * @brief 内存池测试
- * @version 0.1
- * @date 2023-02-23
- * 
- * @copyright Copyright (c) 2023
- */
-
 #include <iostream>
 #include <libgen.h>
 #include "benchmark.h"
