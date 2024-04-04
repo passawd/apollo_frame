@@ -1,12 +1,4 @@
-/**
- * @file main.cpp
- * @author Leaos
- * @brief 日志模块测试
- * @version 0.1
- * @date 2023-02-23
- *
- * @copyright Copyright (c) 2023
- */
+
 
 #include "common.h"
 #include "log.h"
